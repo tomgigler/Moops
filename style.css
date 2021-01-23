@@ -1,0 +1,49 @@
+body {
+   margin:0;
+   color: #000000;
+   width: auto;
+   margin-left: 0px;
+   margin-right: 0px;
+   margin-top: 0px;
+}
+
+ #top 
+ {
+  position: relative;
+  width:100%;
+  background-color: #112;
+ }
+
+.defect_log {
+   width: 80%;
+}
+
+.td_hints {
+   text-align: center;
+   font-size: 10px;
+}
+
+.td_center {
+   text-align: center;
+}
+
+.td_defect_box_input {
+   border:1px solid black;
+   text-align: center;
+}
+
+.td_defect_box {
+   border:1px solid black;
+   text-align: center;
+   width: 15%;
+}
+
+.td_underscore {
+   border-bottom:1px solid black;
+   text-align: center;
+}
+
+.td_underscore_left {
+   border-bottom:1px solid black;
+   text-align: left;
+}
